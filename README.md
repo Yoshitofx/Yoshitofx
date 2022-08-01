@@ -112,4 +112,11 @@
 <img src= "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
- 
+
+## 👨 Social 🔝
+<p align="center">
+<img src= "https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white">
+<img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src= "https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white">
+</p>
