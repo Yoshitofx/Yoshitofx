@@ -58,3 +58,10 @@
 <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src= "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 <img src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+</p>
+
+## 🎮 Games 🔝
+<p align="center">
+<img src= "https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
+<img src= "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> 
+</p>
