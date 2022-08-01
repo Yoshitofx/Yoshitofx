@@ -40,3 +40,7 @@
  <img src= "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 </p>
 
+## 🍔 Food 🔝
+<p align="center">
+<img src= "https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white">
+</p>
