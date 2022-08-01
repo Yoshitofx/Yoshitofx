@@ -3,7 +3,7 @@
 <p>xxx
 </body>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/620600867816734742?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/620600867816734742)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/752378880769261700?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/752378880769261700)
 
  <h1 style="font-size:300%;"><img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="20px" width="40px"> Drinking</h1>
 
