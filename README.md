@@ -1,6 +1,5 @@
 <h1>Hi there! <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px"> <img src="https://komarev.com/ghpvc/?username=crawlerparty&label=Number%20Visitors&color=5210fa" alt="crawlerparty" />
 </h1>
-<p>xxx
 </body>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/752378880769261700?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/752378880769261700)
