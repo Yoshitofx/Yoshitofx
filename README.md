@@ -6,7 +6,7 @@
 <img src= "https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" >
 </p>
 
-☁ Cloud 🔝
+## ☁ Cloud 🔝
 <p align="center">
  <img src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
